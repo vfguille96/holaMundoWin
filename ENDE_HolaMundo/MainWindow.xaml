@@ -1,0 +1,9 @@
+﻿<Window x:Class="ENDE_HolaMundo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Content="Hola Mundo" HorizontalAlignment="Left" Margin="204,144,0,0" VerticalAlignment="Top" Width="105"/>
+
+    </Grid>
+</Window>
